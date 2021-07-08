@@ -58,7 +58,7 @@ export default class qiangguo extends Vue {
   }
 
   public info(msg: string) {
-    this.$message.info(msg);
+    (this as any).$message.info(msg);
   }
   loadTimu() {
     console.info("timus",this.timus);
