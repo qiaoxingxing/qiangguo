@@ -1,10 +1,10 @@
 # 使用方法
-打开dist/index.html; 
-
+浏览器打开dist/index.html; 
 或者直接打开src\views\qiangguo\tiku.json搜索;
 
-目前题库更新到2020年11月, 1698题; 
-
+2021-07-08更新题库, 来自qq群465808301:
+3月30日题库2021题.doc
+学习强国之争上游随机练习2104题20210525.csv
 
 # qiangguo
 
