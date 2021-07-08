@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="outdiv">
     <img src="./header.jpg" class="logoimg">
     <el-input
       ref="input"
@@ -67,6 +67,10 @@ export default class qiangguo extends Vue {
 </script>
 
 <style  scoped>
+.outdiv {
+  max-width: 600px;
+  margin: 0 auto;
+}
 .logoimg {
   width: 100%;
   height: 100px;
