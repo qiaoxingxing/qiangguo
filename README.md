@@ -1,5 +1,7 @@
 # 使用方法
-浏览器打开dist/index.html; 
+在线地址: https://qiangguo.netlify.app/
+
+或者下载代码, 浏览器打开dist/index.html; 
 或者直接打开src\views\qiangguo\tiku.json搜索;
 
 2021-07-08更新题库, 来自qq群465808301:
